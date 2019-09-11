@@ -40,6 +40,5 @@ Choice Lunch ERD
 - Ruby
 - Ruby on Rails
 - PostgreSQL
-- Rake
 - Heroku CLI
 - Curl scripts for API testing
