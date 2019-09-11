@@ -33,8 +33,8 @@ As a user, I want to delete my restaurant suggestion.
 As a user, I want to click a button to get a random suggestion.
 
 ## Entity Relationship Diagram
-Choice Lunch ERD 
-<img src=https://imgur.com/a/ywSKnue>
+Choice Lunch ERD
+<img src=https://i.imgur.com/wW3I4pv.jpg>
 
 ## Technologies Used
 - Ruby
