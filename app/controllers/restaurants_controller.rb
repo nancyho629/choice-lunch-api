@@ -3,7 +3,7 @@ class RestaurantsController < OpenReadController
 
   # GET /restaurants
   def index
-    @restaurants = Restaurant.all
+    @restaurants = Restaurant.all.order('created_at DESC')
 
     render json: @restaurants
   end
