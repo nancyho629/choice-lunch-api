@@ -46,6 +46,6 @@ class RestaurantsController < OpenReadController
 
     # Only allow a trusted parameter "white list" through.
     def restaurant_params
-      params.require(:restaurant).permit(:name, :cuisine, :address, :url, :best_thing_to_order, :user_id)
+      params.require(:restaurant).permit(:name, :cuisine, :address, :url, :best_thing_to_order)
     end
 end
